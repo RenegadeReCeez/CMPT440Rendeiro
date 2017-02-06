@@ -1,0 +1,25 @@
+78 points
+
+Ryan,
+
+- Good job in creating your accounts!
+
+- Good job in setting up your java compiler in your system.
+
+- Good job with your first GitHub submission!
+
+However,
+
+- The repository is not organized as indicated in the handout, i.e., you were
+  asked to organize your work and put your homework assignment in a folder
+  named hw/0/ but you did not follow instructions.
+
+- Please organize your GitHub repository immediately.
+
+- Please staple all your assignments as necessary.
+
+
+
+Peace,
+
+- Dr. Pablo Rivas
