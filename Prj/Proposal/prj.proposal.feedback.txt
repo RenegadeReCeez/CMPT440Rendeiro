@@ -1,0 +1,12 @@
+10 pts
+
+Ryan,
+
+The project idea seems interesting; however: 
+  - it is not clear exactly how the DFA will be used. Proceed with caution.
+
+Please organize your repository.
+
+Peace,
+
+- Dr. Rivas
